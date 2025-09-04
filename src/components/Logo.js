@@ -1,3 +1,4 @@
 export default function Logo() {
-  return <h1>🪶 Go AWAY</h1>;
+  return <h1>🪶 Goo AWAY</h1>;
 }
+
