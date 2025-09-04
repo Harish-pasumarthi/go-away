@@ -1,7 +1,7 @@
 # this project is live at : https://goo-away.netlify.app/
-# -------------------------------------------------------
+✈️✈️✈️
 Built an interactive trip packing checklist using React.js, enabling users to add, delete, and mark items as packed. Implemented sorting, dynamic stats, and confirmation prompts for enhanced UX. Focused on state management, reusable components, and responsive design.
-# -------------------------------------------------------
+🎒🎒🎒
 
 # Getting Started with Create React App
 
