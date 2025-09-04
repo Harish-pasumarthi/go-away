@@ -1,4 +1,4 @@
-#this project is live at : https://goo-away.netlify.app/
+# this project is live at : https://goo-away.netlify.app/
 
 # Getting Started with Create React App
 
